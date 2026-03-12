@@ -8,6 +8,7 @@ import { useEffect, useRef, useState } from 'react';
 // TODO 1) Разбить на компоненты
 // TODO 2) Пересобрать поля(некоторые избыточны)
 // TODO 3) Добавить scss модули
+// TODO 4) Сделать rw
 
 // Кнопка отправки с состоянием загрузки
 function SubmitButton() {
